@@ -1,0 +1,13 @@
+/* DEBUGGING (optional)*/
+enableDebugConsole = 1;
+allowFunctionsLog = 1; 
+saving = 0; 
+respawn=3;
+respawndelay=5;
+
+/* FUNCTIONS */
+class CfgFunctions 
+{
+	#include "IOAI\functions.hpp"
+};
+

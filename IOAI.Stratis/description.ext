@@ -8,6 +8,6 @@ respawndelay=5;
 /* FUNCTIONS */
 class CfgFunctions 
 {
-	#include "IOAI\functions.hpp"
+	#include "IOAI\functions\functions.hpp"
 };
 

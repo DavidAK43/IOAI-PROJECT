@@ -245,4 +245,4 @@ if ( _respawnCount > 0 ) then {
 	};
 };
 
-if ( true ) exitWith {};
+nil
